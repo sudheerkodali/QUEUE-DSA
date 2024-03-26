@@ -20,6 +20,13 @@
   ![Image of QUEUE](./wharisQueue/image1.png)
 
   # 1.2
+  <p> <li> suppose if we Add() value 5 it will insert in front end of the QUEUE </li></p>
+  <p> <li> suppose if we Add() value 7 it will insert in front end of the QUEUE </li></p>
+  <p> <li> suppose if we Add() value 8 it will insert in front end of the QUEUE </li></p>
+  <p> <li> suppose if we Add() value 9 it will insert in front end of the QUEUE </li></p>
+  [5,7,8,9]
+
+  <p> <li> suppose if we Remove() value 5 it will delete the front of the QUEUE </li></p>
   
   ![Image of QUEUE](./wharisQueue/image2.png)
 
