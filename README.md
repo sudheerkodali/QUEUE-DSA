@@ -12,9 +12,9 @@
 
  # 1.1 what is queue
  
-  <p>  QUEUEs is also mentained as  'ADT': Abstract data types  </p>
-  <p>  It has the name called FIFO : FIRST IN FIRST OUT means Front end </p>
-  <p>  process would be Delection at front and Insertion at the back end </p>
+  <p> <li> QUEUEs is also mentained as  'ADT': Abstract data types </li> </p>
+  <p> <li>  It has the name called FIFO : FIRST IN FIRST OUT means Front end </li> </p>
+  <p> <li> process would be Delection at front and Insertion at the back end </li></p>
 
    
   ![Image of QUEUE](./wharisQueue/image1.png)
