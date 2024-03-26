@@ -9,6 +9,7 @@
 
 
 |  1  | [what is QUEUE](#)  
+
  # 1.1 what is queue
 
 <!--<p> Stack we called it has 'ADT' </p>
@@ -19,13 +20,13 @@
    <li>   TOP: Return TOP most element of the stack( top most means last element LIFO)
    <li>   SIZE: Return size of the stack </li></p>-->
    
-  ![Image of QUEUE](./whatisQueue/image1.png)
+  ![Image of QUEUE](./wharisQueue/image1.png)
 
   # 1.2
-  ![Image of QUEUE](./whatisQueue/image2.png)
+  ![Image of QUEUE](./wharisQueue/image2.png)
 
   # 1.3
-  ![Image of QUEUE](./whatisQueue/image3.png)
+  ![Image of QUEUE](./wharisQueue/image3.png)
 
   | 2 | [queueusingLinkedlist](#)
   # 2.1
