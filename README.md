@@ -14,7 +14,7 @@
  
   <p>  QUEUEs is also mentained as  'ADT': Abstract data types  </p>
   <p>  It has the name called FIFO : FIRST IN FIRST OUT means Front end </p>
-  <p>  process would be Delection at foront and Insertioin at the back end </p>
+  <p>  process would be Delection at front and Insertion at the back end </p>
 
    
   ![Image of QUEUE](./wharisQueue/image1.png)
