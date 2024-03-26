@@ -11,21 +11,20 @@
 |  1  | [what is QUEUE](#)  
 
  # 1.1 what is queue
+ 
+  <p>  QUEUEs is also mentained as  'ADT': Abstract data types  </p>
+  <p>  It has the name called FIFO : FIRST IN FIRST OUT means Front end </p>
+  <p>  process would be Delection at foront and Insertioin at the back end </p>
 
-<!--<p> Stack we called it has 'ADT' </p>
-<P> ADT:  'Abstract Data Type </P>
-<p> while implementing data types into 'Stack' we need to fallow this 4 points </p>
-<p><li>  PUSH: Insert into stack
-   <li>   POP: Pop from the stack
-   <li>   TOP: Return TOP most element of the stack( top most means last element LIFO)
-   <li>   SIZE: Return size of the stack </li></p>-->
    
   ![Image of QUEUE](./wharisQueue/image1.png)
 
   # 1.2
+  
   ![Image of QUEUE](./wharisQueue/image2.png)
 
   # 1.3
+  
   ![Image of QUEUE](./wharisQueue/image3.png)
 
   | 2 | [queueusingLinkedlist](#)
